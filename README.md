@@ -1,5 +1,5 @@
 # Red-Black-Tree
-Overview
+
 This project implements a Red-Black Tree, a self-balancing binary search tree. The tree maintains an efficient structure with a guaranteed logarithmic height to provide optimal performance for search, insertion, and deletion operations. This implementation includes several advanced features, such as node insertion, balancing via rotations, tree balance checking, and search operations.
 
 Key Features:
